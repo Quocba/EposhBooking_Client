@@ -1,6 +1,6 @@
 export const API_BASE_URL =
-  "https://eposhgraduation-001-site1.ftempurl.com/api/v1";
-export const URL_IMAGE = "https://eposhgraduation-001-site1.ftempurl.com";
+  "https://eposhhotel1605-001-site1.otempurl.com/api/v1";
+export const URL_IMAGE = "https://eposhhotel1605-001-site1.otempurl.com";
 
 export const ApiUrl = {
   GENERAL: {

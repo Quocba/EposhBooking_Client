@@ -1,6 +1,6 @@
 export const API_BASE_URL =
-  "https://eposhhotel1605-001-site1.otempurl.com/api/v1";
-export const URL_IMAGE = "https://eposhhotel1605-001-site1.otempurl.com";
+  "https://booking.eposh.io.vn/api/v1";
+export const URL_IMAGE = "https://booking.eposh.io.vn";
 
 export const ApiUrl = {
   GENERAL: {

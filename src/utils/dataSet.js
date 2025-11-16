@@ -406,11 +406,7 @@ export const dataRoomAmenities = [
 ];
 
 export const dataTeamMember = [
-  {
-    img: AssetImages.AVT_FAKE.AVT_Bao,
-    name: "Tran Quoc Bao",
-    position: "Leader & Back-end",
-  },
+ 
   {
     img: AssetImages.AVT_FAKE.AVT_Thanh,
     name: "Vo Duy Thanh",
@@ -420,6 +416,11 @@ export const dataTeamMember = [
     img: AssetImages.AVT_FAKE.AVT_Quoc,
     name: "Nguyen Anh Quoc",
     position: "Front-end",
+  },
+   {
+    img: AssetImages.AVT_FAKE.AVT_Bao,
+    name: "Tran Quoc Bao",
+    position: "Project Manager - Back-End",
   },
   {
     img: AssetImages.AVT_FAKE.AVT_DAT,

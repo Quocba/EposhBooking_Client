@@ -407,27 +407,27 @@ export const dataRoomAmenities = [
 
 export const dataTeamMember = [
   {
-    img: AssetImages.AVT_FAKE.AVT_1,
+    img: AssetImages.AVT_FAKE.AVT_Bao,
     name: "Tran Quoc Bao",
     position: "Leader & Back-end",
   },
   {
-    img: AssetImages.AVT_FAKE.AVT_2,
+    img: AssetImages.AVT_FAKE.AVT_Thanh,
     name: "Vo Duy Thanh",
     position: "Back-end",
   },
   {
-    img: AssetImages.AVT_FAKE.AVT_3,
+    img: AssetImages.AVT_FAKE.AVT_Quoc,
     name: "Nguyen Anh Quoc",
     position: "Front-end",
   },
   {
-    img: AssetImages.AVT_FAKE.AVT_1,
+    img: AssetImages.AVT_FAKE.AVT_DAT,
     name: "Nguyen Tien Dat",
     position: "Front-end",
   },
   {
-    img: AssetImages.AVT_FAKE.AVT_2,
+    img: AssetImages.AVT_FAKE.AVT_Hieu,
     name: "Doan Minh Hieu",
     position: "Front-end",
   },

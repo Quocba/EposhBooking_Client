@@ -17,6 +17,11 @@ export const AssetImages = {
     AVT_2: require("../assets/avatar/avt-2.jpeg"),
     AVT_3: require("../assets/avatar/avt-3.jpeg"),
     HIEUNT: require("../assets/avatar/HieuNT.jpg"),
+    AVT_DAT: require("../assets/avatar/dat.jpg"),
+    AVT_Bao: require("../assets/avatar/bao.jpg"),
+    AVT_Hieu: require("../assets/avatar/hieu.jpg"),
+    AVT_Quoc: require("../assets/avatar/quoc.jpg"),
+    AVT_Thanh: require("../assets/avatar/thanh.jpg")
   },
   BANNER: {
     BANNER_1: require("../assets/ImageSlider/photo.jpg"),
